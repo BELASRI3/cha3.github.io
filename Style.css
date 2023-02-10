@@ -1,0 +1,58 @@
+body{ 
+	background:radial-gradient(#ffffff ,#FFCFA9); 
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: center;
+
+}
+
+.container { 
+width: 700px;
+margin: 90px auto;
+}
+
+.card-white{
+	background-color: #FFE9D3;
+	padding: 40px;
+	text-align: center;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 1.5);
+	border-radius: 5%;
+	margin: 20px O;
+}
+
+.studies{
+	background-color: #FFE9D3;
+	padding: 40px;
+	text-align: center;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 1.5);
+	border-radius: 5%;
+margin: 40px 0;
+}
+
+.hobbies{
+	background-color: #FFE9D3;
+	padding: 40px;
+	text-align: center;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 1.5);
+	border-radius: 5%;
+
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.btn-azure{ 
+background-color: #FFCFA9;	
+text-decoration: none;
+color: black;
+padding: 10px 15px;
+border-radius: 4px;
+}
+
+.btn-azure:hover{
+	background-color: #FCAD5D;
+	color: whitesmoke ;
+
+}
+
+
